@@ -1,0 +1,26 @@
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.mole {
+    background: palevioletred;
+}
+
+.info{
+    width: 200px;
+    height: 250px;
+    margin: 178px 100px;
+    float: left;
+    text-align: center;
+    background: tan;
+}

@@ -1,0 +1,17 @@
+#grid {
+    width: 350px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#reload {
+	display: none;
+	margin-top: 2rem;
+	padding: 1rem;
+	background: rgb(138, 213, 246);
+	outline: none;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
